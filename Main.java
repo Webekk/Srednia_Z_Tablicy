@@ -9,8 +9,6 @@ public class Main {
             for (int i =0; i < my_array.length; i++){
             // srednia arytmetyczna suma wszystkich elementow przez ilosc elementow
         suma = suma + my_array[i];
-
-       
             }
         //obliczam srednia
         double srednia = suma / my_array.length;

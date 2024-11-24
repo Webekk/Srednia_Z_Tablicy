@@ -10,11 +10,12 @@ public class Main {
             // srednia arytmetyczna suma wszystkich elementow przez ilosc elementow
         suma = suma + my_array[i];
 
+       
+            }
         //obliczam srednia
         double srednia = suma / my_array.length;
-                System.out.println("Srednia wynosi = " + srednia);
+        System.out.println("Srednia wynosi = " + srednia);
 
-        }
         }
     }
 
